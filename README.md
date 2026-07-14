@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siri Geetha Putta</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working as [Backend developer](https://www.culturevo.com/)
-
 - 🌱 I’m currently learning **DevOps , AWS**
 
 - 📫 How to reach me **sirigeethap@gmail.com**
