@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sirigeethap@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l8EWpDWos7blv_PuUtNPwGmOaJk_v0jy/view?usp=sharing](https://drive.google.com/file/d/1l8EWpDWos7blv_PuUtNPwGmOaJk_v0jy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XjUh5RXqOc7wbHcbXKC2WZiluC5i_Z3F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
